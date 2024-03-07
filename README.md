@@ -1,4 +1,4 @@
-#Social Media Reference Landing Page (CSS Flexbox Only)
+# Social Media Reference Landing Page (CSS Flexbox Only)
 Inspired by Linktree
 
 ## Preview
